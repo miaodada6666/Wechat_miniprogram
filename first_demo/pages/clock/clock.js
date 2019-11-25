@@ -1,4 +1,4 @@
-const util = require('../../utils/util.js')
+const util = require('../../utils/clock_util.js')
 const defaultLogName = {
     work: '工作',
     rest: '休息'

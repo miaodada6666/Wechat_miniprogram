@@ -11,9 +11,7 @@
    <navigator url="/pages/clock/clock" hover-class="navigator-hover">跳转时钟界面</navigator>  
  </view>  
 
- <view class="set-area">  
-   <navigator url="/pages/setting/setting" hover-class="navigator-hover">跳转时钟设置界面</navigator>  
- </view> 
+
 
 
 

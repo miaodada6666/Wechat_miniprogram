@@ -37,5 +37,9 @@
 	  	data-type="rest" 
 	  	class="timer_ctrl {{isRuning && timerType == 'work' ? 'hide' : ''}}" >{{isRuning ? '完成': '休息'}}</view>
 	</view>
+
+	 <view class="set-area">  
+   <navigator url="/pages/setting/setting" hover-class="navigator-hover">跳转时钟设置界面</navigator>  
+ </view> 
 </view>
 

@@ -3,11 +3,12 @@
 }
 
 .section {
+    width: 375px;
     margin-bottom: 10px;
 }
 
 .section_title {
-    font-size: 12px;
+    font-size: 24px;
     color: #999;
 }
 

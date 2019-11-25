@@ -2,13 +2,17 @@
     "pages": [
         "pages/index/index",
         "pages/logs/logs",
-        "pages/test/test"
+        "pages/test/test",
+        "pages/calc/calc",
+        "pages/clock/clock",
+        "pages/setting/setting"
+
 
     ],
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "First miniprogram of Miao",
+        "navigationBarTitleText": "你撑了吗",
         "navigationBarTextStyle": "black"
     },
     "tabBar": {

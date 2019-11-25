@@ -1,9 +1,19 @@
 <!--index.wxml-->
-<view class="btn-area">  
+<view class="test-area">  
    <navigator url="/pages/test/test" hover-class="navigator-hover">跳转test页面</navigator>  
  </view>  
 
+<view class="calc-area">  
+   <navigator url="/pages/calc/calc" hover-class="navigator-hover">跳转计算器页面</navigator>  
+ </view>  
 
+<view class="clo-area">  
+   <navigator url="/pages/clock/clock" hover-class="navigator-hover">跳转时钟界面</navigator>  
+ </view>  
+
+ <view class="set-area">  
+   <navigator url="/pages/setting/setting" hover-class="navigator-hover">跳转时钟设置界面</navigator>  
+ </view> 
 
 
 

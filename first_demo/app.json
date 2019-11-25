@@ -23,7 +23,6 @@
             {
                 "iconPath": "images/log1.png",
                 "selectedIconPath": "images/log2.png",
-
                 "pagePath": "pages/logs/logs",
                 "text": "日志"
             }

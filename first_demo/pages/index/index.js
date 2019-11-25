@@ -4,6 +4,14 @@ const app = getApp()
 
 Page({
     data: {
+
+
+
+
+
+
+
+
         motto: 'Hello World',
         userInfo: {},
         hasUserInfo: false,
@@ -57,7 +65,7 @@ Page({
         return {
             title: "First Demo",
             desc: "小程序测试",
-            path: '/pages/index'
+            path: '/pages/index?id=123'
         }
     }
 
